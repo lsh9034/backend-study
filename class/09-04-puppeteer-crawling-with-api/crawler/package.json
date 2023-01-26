@@ -1,0 +1,11 @@
+{
+  "name": "09-03-puppeteer-crawling-iframe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^6.8.3",
+    "puppeteer": "^19.5.2"
+  }
+}
